@@ -1,1 +1,8 @@
-site_name: My Docs
+# repo_url:
+copyright: North Shore Water Commission &copy; 2018
+#remote_branch:
+#site_url:
+site_author: Eric Kiefer
+site_name: NSWC + NSHD Lead Information
+theme:
+  name: 'material'
